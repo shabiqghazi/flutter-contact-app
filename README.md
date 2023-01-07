@@ -1,6 +1,7 @@
 # contact_app
 
-A new Flutter project.
+Aplikasi CRUD menggunakan Flutter.
+Backend code here : https://github.com/UmarSyahrifudin/Contact-App
 
 ## Getting Started
 
